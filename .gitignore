@@ -1,0 +1,18 @@
+
+# Test binary, built with `go test -c`
+*.test
+
+logs/
+.idea/
+
+
+# dotenv file
+.env
+
+# Go workspace file
+go.work
+
+keys/
+
+kubconfig
+kubeconfig*
